@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.mods = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
-global.prems = ['6281251549899'] //ganti pakai nomormu biar bot berfungsi
+global.owner = ['6287752489285'] //ganti pakai nomormu biar bot berfungsi
+global.mods = ['6287752489285'] //ganti pakai nomormu biar bot berfungsi
+global.prems = ['6287752489285'] //ganti pakai nomormu biar bot berfungsi
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ DaniBotzOffcོ_1ঔৣ꧂'
-global.numberowner = '6281251549899' //ganti pakai nomor mu
+global.numberowner = '6287752489285' //ganti pakai nomor mu
 global.instagram = 'Gk Ad Bwang:v' //ganti pakai Instagram mu
 global.github = 'https://github.com/Bot-Mdnew' //ganti aja pakai githubmu
 global.tt = '"_"' //ganti aja pakai tiktok mu
@@ -29,7 +29,7 @@ global.gc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd' //ganti pakai gru
 global.web = 'https://youtube.com/channel/UCoHJ9D9Sy3TLp0mUHBrj1cg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"_"' //ganti pakai Instagram mu
 global.saweria = '"_"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/6281251549899' //ganti jadi nomor mu
+global.nomer = 'https://wa.me/6287752489285' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
